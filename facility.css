@@ -1,0 +1,89 @@
+
+body {
+    font-family: system-ui;
+    background-color: rgb(136, 241, 180);
+    color: black;
+    text-align: left;
+    
+  }
+  .header{
+   
+    height: 10px;
+    
+    background-color: rgb(136, 241, 180);
+    margin: 0px;
+    
+  }
+  .iandv{
+
+      
+    
+    height: 400px;
+    width: 90%;
+    background-color: rgb(136, 241, 180);
+    
+    
+    
+  }
+  .facilities{
+    margin: auto;
+    height: 1250px;
+    
+    padding: 10px;
+    margin: 0px;
+    
+  background-color: rgb(136, 241, 180);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  }
+  .facilities > img {
+   object-fit: cover;
+   height: 200px;
+   width: 200px;
+   
+  
+  
+
+  }
+  .speciality{
+    margin: auto;
+    height: 300px;
+    
+    background-color: rgb(136, 241, 180);
+  
+  padding: 10px;
+  margin: 0px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;}
+  .footer{
+    margin: auto;
+    height: 100px;
+   
+    background-color: rgb(136, 241, 180);
+    margin: 0px;
+    
+  }
+  .box{
+    position: relative;
+    padding: 5px;
+    float: left;
+    left: 10px;
+    width: 350px;
+    height: 180px;
+    border: rgb(30, 238, 117) solid 3px;
+    border-radius: 15%;
+    margin-right: 25px;
+    background-color: rgb(7, 120, 51);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+  }
+  .footer{
+
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
